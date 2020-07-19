@@ -2,7 +2,7 @@ def new_hash
   new_hash = {}
   # return an empty hash
 end 
- 
+ #new_hash
 
 
 def my_hash
