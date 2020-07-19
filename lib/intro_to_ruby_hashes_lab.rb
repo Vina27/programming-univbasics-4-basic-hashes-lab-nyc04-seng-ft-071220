@@ -7,8 +7,8 @@ end
 
 def my_hash
   my_hash = {
-    name: "Susan"
-    age: 30
+    name: "Luca",
+    breed: "German Shepherd"
   }
   # return a valid hash with any key/value pair of your choice
 end
