@@ -27,7 +27,7 @@ def id_hash_generator(number)
     name: "Susan", 
     number: 30 
   }
-  id_hash_generator[:number] = number
+  id_hash_generator[5] = number
   # return a hash with a key :id assigned to the provided number
 end
 
