@@ -23,7 +23,7 @@ end
 
 
 def id_hash_generator(number)
-  id_hash_generator(5) = {
+  id_hash_generator = {
     name: "Susan", 
     number: 30 
   }
